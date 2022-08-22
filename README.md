@@ -42,7 +42,7 @@ otherwise if u want to install my pywal compatible one
 
 ```
 git clone https://github.com/golam71/suckless/
-
+cd suckless
 cd dwm
 make
 sudo make clean install
