@@ -7,7 +7,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = {"JetBrainsMono Nerd Font:style:medium:size=11"};
 static const char dmenufont[]       = "JetBrainsMono Nerd Font:style:medium:size=11";
-#include "/home/golam47/.cache/wal/colors-wal-dwm.h"
+#include "/home/golam71/.cache/wal/colors-wal-dwm.h"
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 
